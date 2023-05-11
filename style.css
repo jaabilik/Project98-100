@@ -1,0 +1,25 @@
+body {
+    background-color: lightcyan; 
+    font-family: 'Rajdhani', sans-serif;
+    color: rgb(1, 76, 76);
+}
+
+h1 {
+    font-family: 'Darumadrop One', cursive;
+color: darkcyan;
+font-size: 90px;
+}
+
+.popofcolour {
+    background: linear-gradient(rgb(196, 239, 239), rgb(164, 211, 211), rgb(125, 177, 177), rgb(70, 130, 130));
+}
+
+.popofcolor {
+    background-color: rgb(196, 239, 239);
+}
+
+img {
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(240, 255, 252);
+}
